@@ -1,0 +1,17 @@
+name: Digital-Land-Community
+id: ari:cloud:compass:7d8f7d5c-20df-4b0b-a73c-2bd26f09c760:component/3308b1e9-23ac-461b-9161-bc1de322d539/39e4efc9-2472-4ce5-bc68-6ab92e97d7eb
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: ari:cloud:identity::team/2819cc33-e492-4aa9-91df-eff0e3efa40e
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Digital-Land-Platform/Digital-Land-Community
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
